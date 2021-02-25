@@ -1,0 +1,58 @@
+{
+  "id": "2170043",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18012207",
+      "name": "旅游出行",
+      "font_class": "lvyouchuhang",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "18012208",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18012209",
+      "name": "商务合作",
+      "font_class": "shangwuhezuo",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "18012210",
+      "name": "交易所",
+      "font_class": "jiaoyisuo",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "18012211",
+      "name": "工具",
+      "font_class": "gongju",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "18012212",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "18012213",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}

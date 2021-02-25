@@ -1,0 +1,14 @@
+html,
+#app,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+.el-step__title {
+    font-size: 10px !important;
+}
+
+.ql-editor {
+    height: 200px !important;
+}

@@ -1,0 +1,5 @@
+# semi 结尾不用自动加;  singleQuote 单引号用字符串  ;printWidth 一行最多有多少个字母
+{
+    "semi": false,
+    "printWidth":200
+}
